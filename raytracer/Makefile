@@ -1,4 +1,4 @@
-FILE=rotate
+FILE=main
 GLMDIR=../glm
 
 ########
